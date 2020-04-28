@@ -1,0 +1,38 @@
+article {
+  display: block;
+}
+
+header {
+background-color: #AF86A6;
+color: #7D38D0;
+}
+
+main {
+  background-color: #4F9C99;
+  color: #23752D;
+}
+
+footer{
+ position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #121BD6 ;
+   color: #A31E2E;
+   text-align: right;
+}
+
+nav {
+
+   left: 0;
+   top: 0;
+   margin-bottom:10px;
+   width: 100%;
+   background-color: #79E1DB;
+   color: #F9C3FE;
+   
+}
+
+p {
+	text-align:left;
+}
